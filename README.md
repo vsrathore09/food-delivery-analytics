@@ -129,7 +129,7 @@ Cleaned CSVs were uploaded to a **MySQL database** (`food_delivery_analysis`) us
 A 3-page interactive dashboard with city and cuisine filters, and monthly slicers.
 
 ### Page 1 — Executive Business Overview
-![Executive Business Overview](dashboard/dashboard_page1.png)
+![Executive Business Overview](dashboard_page1.png)
 
 KPIs: Total Revenue · Total Profit · Total Orders · Avg Order Value · Cancellation % · Late Delivery %
 
@@ -138,7 +138,7 @@ Charts: Revenue vs Profit by City · Monthly Business Performance · Order Statu
 ---
 
 ### Page 2 — Customer & Sales Intelligence
-![Customer & Sales Intelligence](dashboard/dashboard_page2.png)
+![Customer & Sales Intelligence](dashboard_page2.png)
 
 KPIs: Repeat Customer % · Avg Customer Spend · Premium Customers · Active Customers · High Value Customers
 
@@ -147,7 +147,7 @@ Charts: Revenue by Customer Segment · Orders by Segment · Revenue & Profit by 
 ---
 
 ### Page 3 — Delivery & Operational Performance
-![Delivery & Operational Performance](dashboard/dashboard_page3.png)
+![Delivery & Operational Performance](dashboard_page3.png)
 
 KPIs: Avg Delivery Time · Late Delivery % · Avg Delivery Distance · Cancelled Orders · Refund Orders
 
