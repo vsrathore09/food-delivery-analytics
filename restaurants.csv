@@ -1,0 +1,501 @@
+restaurant_id,restaurant_name,city,cuisine,restaurant_type,rating,avg_prep_time,avg_cost_for_two,commission_percentage,total_orders_received,active_status
+1,Banerjee-Bala Kitchen,Lucknow,Biryani,Fast Food,3.8,41,2281,19.47,1285,No
+2,"Kunda, Vora and Cherian Kitchen",Delhi,Burger,Fine Dining,4.7,19,968,16.8,2308,Yes
+3,"Wagle, Bal and Sarma Kitchen",Bangalore,Burger,Cloud Kitchen,4.7,23,2458,11.76,5749,Yes
+4,Bava-Sem Kitchen,Pune,Chinese,Casual Dining,4.6,28,2244,26.95,1325,Yes
+5,Balasubramanian LLC Kitchen,Hyderabad,Desserts,Casual Dining,3.4,12,2120,18.61,2637,Yes
+6,"Bala, Subramaniam and Amble Kitchen",Lucknow,Desserts,Fine Dining,3.3,23,2255,24.13,603,Yes
+7,Bains Group Kitchen,Ahmedabad,Biryani,Casual Dining,4.1,25,2305,22.71,3935,Yes
+8,"Rana, Bains and Halder Kitchen",Hyderabad,Burger,Casual Dining,3.4,16,302,14.23,4549,Yes
+9,Sahota and Sons Kitchen,Kolkata,Biryani,Fast Food,3.1,33,1759,16.44,5790,Yes
+10,Salvi Group Kitchen,Ahmedabad,Biryani,Casual Dining,4.1,15,2460,27.16,5144,Yes
+11,"Din, Tara and Rama Kitchen",Jaipur,Chinese,Cloud Kitchen,4.3,45,2443,18.71,3039,Yes
+12,Sandal PLC Kitchen,Kolkata,Chinese,Cloud Kitchen,4.9,27,1042,24.38,4798,Yes
+13,Bains PLC Kitchen,Chennai,Street Food,Casual Dining,4.9,28,852,20.55,5463,Yes
+14,"Aurora, Khanna and Banerjee Kitchen",Ahmedabad,Pizza,Casual Dining,3.5,22,1607,11.06,2980,Yes
+15,Sampath PLC Kitchen,Pune,Biryani,Casual Dining,4.5,28,2158,12.43,1009,No
+16,"Barad, Sathe and Sharaf Kitchen",Bangalore,North Indian,Fine Dining,3.6,13,1183,20.65,1717,Yes
+17,"Bassi, Raju and Sur Kitchen",Bangalore,Pizza,Casual Dining,4.1,12,400,22.01,5220,Yes
+18,Karnik and Sons Kitchen,Chennai,Biryani,Cloud Kitchen,3.3,34,1089,17.59,2014,Yes
+19,"Sarma, Kale and Varty Kitchen",Pune,Biryani,Cloud Kitchen,4.2,43,2339,29.4,1598,Yes
+20,"Grewal, Dugar and Mani Kitchen",Pune,Desserts,Casual Dining,4.5,11,2290,28.45,1173,Yes
+21,Tiwari-Mannan Kitchen,Delhi,Italian,Fine Dining,4.5,41,2068,21.83,5116,Yes
+22,Hans-Das Kitchen,Mumbai,Italian,Fine Dining,3.4,17,2360,23.33,5598,Yes
+23,"Saran, Mahal and Dyal Kitchen",Chennai,Italian,Fine Dining,4.2,28,1774,22.05,1645,Yes
+24,Upadhyay-Chand Kitchen,Chennai,South Indian,Cloud Kitchen,4.0,32,887,20.57,4627,Yes
+25,Subramaniam-Dave Kitchen,Delhi,Chinese,Fast Food,3.7,41,2375,20.39,4920,Yes
+26,Mangat-Mander Kitchen,Delhi,South Indian,Fast Food,3.4,32,530,26.1,1073,Yes
+27,Vyas-Rau Kitchen,Mumbai,Burger,Fine Dining,3.4,28,385,11.7,1379,No
+28,"Mani, Sinha and Gokhale Kitchen",Chennai,South Indian,Cloud Kitchen,3.9,17,817,23.17,2020,Yes
+29,Mani-Sidhu Kitchen,Ahmedabad,Italian,Fine Dining,3.9,40,1806,15.54,954,Yes
+30,"Jaggi, Luthra and Salvi Kitchen",Mumbai,North Indian,Casual Dining,4.1,34,1983,16.94,4602,Yes
+31,"Saxena, Banik and Chandran Kitchen",Chennai,Pizza,Casual Dining,4.9,40,1269,28.45,4694,Yes
+32,Goswami Inc Kitchen,Chennai,Chinese,Fine Dining,4.0,33,2359,16.56,810,No
+33,Kannan PLC Kitchen,Hyderabad,North Indian,Casual Dining,4.5,16,1012,10.73,5051,Yes
+34,Sabharwal-Andra Kitchen,Kolkata,Italian,Casual Dining,3.9,36,1093,16.73,4087,Yes
+35,Ram PLC Kitchen,Jaipur,Chinese,Cloud Kitchen,4.8,18,2435,10.24,456,Yes
+36,Devi LLC Kitchen,Delhi,North Indian,Casual Dining,4.1,34,926,24.81,2104,No
+37,Mangat-Barad Kitchen,Mumbai,Burger,Cloud Kitchen,4.0,34,2161,11.71,5716,Yes
+38,Sathe-Dalal Kitchen,Kolkata,Italian,Fine Dining,4.9,20,924,20.36,4916,Yes
+39,"Chand, Dhillon and Bandi Kitchen",Jaipur,Pizza,Fast Food,4.2,31,1441,14.73,4249,No
+40,Sama-Ramakrishnan Kitchen,Hyderabad,Chinese,Fast Food,4.0,15,1516,18.58,3235,Yes
+41,"Devi, Suri and Borde Kitchen",Lucknow,North Indian,Casual Dining,3.1,34,1685,12.12,2045,Yes
+42,Edwin-Das Kitchen,Pune,Italian,Casual Dining,4.7,38,952,14.8,2294,No
+43,Bhatia-Bains Kitchen,Ahmedabad,Desserts,Fast Food,3.4,18,985,20.1,3553,No
+44,Chana Group Kitchen,Ahmedabad,Chinese,Fast Food,4.5,29,2103,11.24,5017,Yes
+45,Mani-De Kitchen,Pune,Burger,Fine Dining,4.2,20,884,12.38,2610,Yes
+46,Dalal-Kalita Kitchen,Mumbai,Burger,Fast Food,3.1,26,903,11.05,3200,Yes
+47,Saini-Sur Kitchen,Lucknow,Desserts,Cloud Kitchen,4.7,34,1413,12.36,2079,No
+48,Sahni-Apte Kitchen,Delhi,Healthy Food,Fast Food,3.1,12,1074,18.76,2576,No
+49,Roy-Sule Kitchen,Hyderabad,Chinese,Cloud Kitchen,4.7,37,490,15.25,1206,Yes
+50,"Arya, Contractor and Sathe Kitchen",Ahmedabad,Burger,Casual Dining,3.8,33,1058,10.8,953,Yes
+51,"Toor, Golla and Sant Kitchen",Jaipur,Pizza,Casual Dining,3.9,26,319,21.55,965,Yes
+52,Bhatti PLC Kitchen,Mumbai,Pizza,Casual Dining,4.1,39,549,16.65,5965,No
+53,Verma-Tara Kitchen,Kolkata,North Indian,Casual Dining,3.6,31,2459,12.13,3224,Yes
+54,"Chand, Vora and Bora Kitchen",Kolkata,Biryani,Fast Food,3.7,26,1613,11.99,2353,No
+55,Gour-Chowdhury Kitchen,Jaipur,Healthy Food,Fast Food,4.5,40,1364,29.33,1289,Yes
+56,Desai PLC Kitchen,Pune,Italian,Cloud Kitchen,4.9,29,1172,27.3,3350,Yes
+57,Ramesh LLC Kitchen,Chennai,Burger,Fast Food,4.2,42,1347,24.02,4993,No
+58,Amble-Koshy Kitchen,Kolkata,Burger,Cloud Kitchen,3.6,38,2440,22.62,5450,No
+59,"Lall, Soman and Dugar Kitchen",Chennai,Italian,Fine Dining,3.9,24,532,19.64,4390,Yes
+60,Bhargava-Zachariah Kitchen,Jaipur,Street Food,Cloud Kitchen,4.5,44,1955,15.64,3796,Yes
+61,"Hayre, Dayal and Kaur Kitchen",Jaipur,Chinese,Cloud Kitchen,3.6,24,950,28.49,2521,No
+62,Rajan PLC Kitchen,Chennai,Chinese,Casual Dining,3.1,39,1677,19.71,1601,Yes
+63,Dey PLC Kitchen,Chennai,Chinese,Cloud Kitchen,4.8,10,901,22.21,5301,Yes
+64,"Chaudhry, Mallick and Virk Kitchen",Lucknow,South Indian,Casual Dining,4.1,30,602,14.99,4783,No
+65,"Balasubramanian, Amble and Roy Kitchen",Jaipur,Desserts,Cloud Kitchen,3.7,33,1135,27.04,1683,Yes
+66,Rattan-Anand Kitchen,Lucknow,Biryani,Fast Food,4.1,14,1206,20.29,5803,Yes
+67,Bandi Group Kitchen,Delhi,Pizza,Fine Dining,3.2,36,1420,10.32,1087,No
+68,"Sagar, Tailor and Karnik Kitchen",Bangalore,Healthy Food,Fine Dining,4.9,14,534,17.54,1931,No
+69,Mahajan LLC Kitchen,Chennai,Burger,Cloud Kitchen,4.2,34,1209,11.59,1459,Yes
+70,"Sen, Mahal and Bhargava Kitchen",Mumbai,Chinese,Cloud Kitchen,4.4,39,617,28.65,1753,Yes
+71,Chaudry-Zacharia Kitchen,Hyderabad,Desserts,Cloud Kitchen,4.2,39,715,12.52,4533,Yes
+72,Sant PLC Kitchen,Ahmedabad,Desserts,Cloud Kitchen,4.2,45,2205,25.33,4100,Yes
+73,Mall-Hayer Kitchen,Chennai,Biryani,Cloud Kitchen,3.8,36,886,27.6,3865,Yes
+74,"Sangha, Shetty and Gandhi Kitchen",Lucknow,Italian,Fast Food,4.3,29,1994,27.98,587,Yes
+75,Deshmukh-Borra Kitchen,Mumbai,North Indian,Fast Food,4.2,38,2227,12.63,2592,Yes
+76,"Gade, Lala and Sekhon Kitchen",Mumbai,Healthy Food,Fast Food,3.6,13,558,14.04,4407,Yes
+77,Gandhi-Deol Kitchen,Bangalore,Burger,Fast Food,4.8,34,592,25.21,4657,Yes
+78,Deshmukh and Sons Kitchen,Ahmedabad,Chinese,Cloud Kitchen,4.4,43,1687,16.02,2196,No
+79,Grover Group Kitchen,Mumbai,North Indian,Fast Food,3.4,13,384,25.13,1021,Yes
+80,Lanka PLC Kitchen,Bangalore,Italian,Casual Dining,3.9,17,993,14.52,5952,No
+81,Sagar-Tiwari Kitchen,Kolkata,Biryani,Cloud Kitchen,4.2,30,692,10.81,492,Yes
+82,"Madan, Chad and Karnik Kitchen",Delhi,Street Food,Cloud Kitchen,3.7,34,1102,19.37,2400,Yes
+83,"Rajan, Sami and Chad Kitchen",Mumbai,South Indian,Fast Food,3.3,37,2422,29.69,4106,Yes
+84,Batra and Sons Kitchen,Mumbai,Chinese,Fine Dining,3.4,29,625,12.61,868,No
+85,"Banerjee, Dhawan and Bail Kitchen",Hyderabad,Italian,Casual Dining,3.4,19,1786,25.38,1118,No
+86,"Sharma, Date and Dewan Kitchen",Pune,Italian,Fine Dining,3.9,42,1881,21.31,1195,No
+87,"Chakrabarti, Sampath and Halder Kitchen",Chennai,Italian,Cloud Kitchen,3.0,14,2285,10.69,361,Yes
+88,Chhabra Inc Kitchen,Jaipur,Pizza,Fine Dining,3.9,34,1594,26.33,2877,Yes
+89,"Mann, Dar and Khare Kitchen",Bangalore,Pizza,Casual Dining,4.8,15,2422,11.73,5634,Yes
+90,"Chana, Gola and Chana Kitchen",Jaipur,Pizza,Cloud Kitchen,4.1,31,2211,28.26,3028,Yes
+91,Sharma-Rana Kitchen,Mumbai,Italian,Fine Dining,3.8,19,1331,26.59,5531,Yes
+92,"Lad, Raju and Luthra Kitchen",Ahmedabad,Biryani,Casual Dining,3.3,33,1034,28.71,2060,Yes
+93,Gara-Das Kitchen,Chennai,Burger,Fine Dining,4.5,42,2113,28.83,4277,Yes
+94,Divan PLC Kitchen,Hyderabad,Italian,Cloud Kitchen,4.4,19,368,17.27,3481,Yes
+95,Chatterjee LLC Kitchen,Hyderabad,Healthy Food,Casual Dining,4.9,10,1262,15.51,1067,No
+96,"Sandal, Sidhu and Dani Kitchen",Chennai,South Indian,Fast Food,3.7,27,1558,24.02,4443,Yes
+97,"Dara, Shanker and Krishnan Kitchen",Bangalore,Street Food,Fast Food,4.5,45,344,28.59,4287,Yes
+98,Dewan Ltd Kitchen,Lucknow,North Indian,Cloud Kitchen,3.4,29,2071,25.96,2087,Yes
+99,Tripathi PLC Kitchen,Lucknow,South Indian,Fast Food,4.5,35,2139,11.28,3779,Yes
+100,"Salvi, Vala and Mani Kitchen",Lucknow,South Indian,Cloud Kitchen,3.8,20,2078,15.66,5530,Yes
+101,"Koshy, Wali and Dani Kitchen",Lucknow,Healthy Food,Cloud Kitchen,3.6,12,1352,29.66,4236,Yes
+102,Raju-Lalla Kitchen,Ahmedabad,Pizza,Fine Dining,4.3,26,1613,24.35,5426,Yes
+103,Singhal-Arya Kitchen,Pune,South Indian,Fine Dining,5.0,39,2191,17.54,1166,Yes
+104,Lad-Madan Kitchen,Chennai,Chinese,Fine Dining,4.6,22,1343,18.69,1570,No
+105,"Kaur, Zacharia and Bhattacharyya Kitchen",Kolkata,Healthy Food,Casual Dining,4.7,21,2434,13.61,4003,Yes
+106,"Ramaswamy, Chada and Thakur Kitchen",Bangalore,Italian,Fast Food,4.9,34,2045,14.38,2824,Yes
+107,Dhar-Taneja Kitchen,Kolkata,Pizza,Casual Dining,3.7,41,1549,25.12,5066,Yes
+108,Lalla Inc Kitchen,Ahmedabad,Pizza,Fine Dining,3.8,27,540,22.16,1749,Yes
+109,Vala Inc Kitchen,Mumbai,Italian,Cloud Kitchen,3.9,29,1257,24.85,3351,No
+110,Madan-Desai Kitchen,Jaipur,Healthy Food,Fine Dining,3.5,32,1124,11.17,4739,Yes
+111,Butala-Sant Kitchen,Hyderabad,Italian,Casual Dining,3.6,29,1663,19.49,2204,Yes
+112,"Biswas, Thakur and Shankar Kitchen",Jaipur,South Indian,Fast Food,3.3,42,963,17.1,1285,No
+113,Jhaveri-Kurian Kitchen,Jaipur,Desserts,Fine Dining,3.8,29,909,11.15,5643,Yes
+114,Malhotra Group Kitchen,Hyderabad,Healthy Food,Cloud Kitchen,4.2,17,1126,27.69,2106,No
+115,Behl Group Kitchen,Ahmedabad,Chinese,Cloud Kitchen,3.3,33,2171,21.96,4147,Yes
+116,Sanghvi-Choudhry Kitchen,Delhi,Pizza,Cloud Kitchen,4.3,17,623,18.39,3117,Yes
+117,Konda Inc Kitchen,Ahmedabad,Italian,Casual Dining,4.4,14,1748,18.21,2193,Yes
+118,Cheema Ltd Kitchen,Bangalore,Street Food,Cloud Kitchen,4.0,17,1767,10.15,4667,No
+119,Subramanian LLC Kitchen,Ahmedabad,Burger,Cloud Kitchen,4.4,14,1841,23.23,1854,No
+120,Srivastava LLC Kitchen,Jaipur,North Indian,Fine Dining,3.1,38,861,17.37,1189,Yes
+121,Barad Inc Kitchen,Delhi,North Indian,Cloud Kitchen,5.0,13,424,18.41,5479,Yes
+122,Chaudhary-Bhatti Kitchen,Pune,Biryani,Cloud Kitchen,4.0,12,869,28.2,3963,No
+123,"Savant, Mangat and Garg Kitchen",Hyderabad,Italian,Cloud Kitchen,4.4,34,1675,21.64,3452,Yes
+124,Shere and Sons Kitchen,Bangalore,Desserts,Fast Food,4.6,22,334,27.29,5384,Yes
+125,"Malhotra, Barad and Kaul Kitchen",Ahmedabad,Biryani,Casual Dining,3.9,35,2123,19.5,3617,Yes
+126,Goda-Mandal Kitchen,Delhi,Chinese,Fine Dining,3.8,25,624,29.33,703,No
+127,"Kothari, Chacko and Luthra Kitchen",Jaipur,Biryani,Fast Food,4.4,15,1431,11.66,1091,Yes
+128,"Sura, Dasgupta and Dasgupta Kitchen",Bangalore,South Indian,Fine Dining,4.7,18,1204,19.61,451,No
+129,Mangat Ltd Kitchen,Pune,South Indian,Cloud Kitchen,3.1,28,1114,20.99,4346,Yes
+130,Kuruvilla LLC Kitchen,Kolkata,Chinese,Fast Food,3.8,41,1530,27.55,1300,Yes
+131,Zacharia-Bawa Kitchen,Pune,North Indian,Fine Dining,3.4,44,1464,26.53,5579,No
+132,"Malhotra, Sabharwal and Sridhar Kitchen",Pune,Biryani,Fine Dining,4.1,41,1676,11.09,1294,No
+133,Sibal-Tandon Kitchen,Bangalore,Pizza,Fine Dining,4.9,39,1031,20.25,1733,Yes
+134,Gara LLC Kitchen,Jaipur,Burger,Fine Dining,3.6,11,1445,19.39,1440,Yes
+135,Kota-Borra Kitchen,Mumbai,North Indian,Cloud Kitchen,4.7,29,1936,16.1,1170,Yes
+136,Dey-Koshy Kitchen,Chennai,Desserts,Fine Dining,3.4,27,1822,12.58,1910,Yes
+137,Sur LLC Kitchen,Jaipur,Desserts,Fast Food,3.6,34,824,25.6,3731,Yes
+138,Vasa PLC Kitchen,Hyderabad,Biryani,Fine Dining,3.9,25,334,14.55,466,Yes
+139,Trivedi-Manne Kitchen,Jaipur,Burger,Casual Dining,3.3,31,1050,16.65,5439,Yes
+140,Tailor LLC Kitchen,Ahmedabad,Biryani,Fast Food,4.9,41,1193,16.86,1064,Yes
+141,"Lad, Wason and Chokshi Kitchen",Jaipur,Italian,Fine Dining,5.0,33,2474,19.7,4209,Yes
+142,Swaminathan-Mand Kitchen,Delhi,Biryani,Cloud Kitchen,3.4,17,556,27.82,3844,Yes
+143,"Salvi, Dua and Randhawa Kitchen",Delhi,Desserts,Casual Dining,3.9,23,1794,24.19,4764,Yes
+144,Roy-Srinivas Kitchen,Ahmedabad,Italian,Fine Dining,5.0,21,809,11.0,2959,Yes
+145,Mandal-Dada Kitchen,Jaipur,South Indian,Fine Dining,3.2,29,1202,24.41,4731,No
+146,Madan-Dayal Kitchen,Kolkata,Desserts,Cloud Kitchen,3.6,39,580,13.69,2092,Yes
+147,"Yohannan, Ramaswamy and Batra Kitchen",Lucknow,Biryani,Fine Dining,3.1,42,643,10.44,662,Yes
+148,"Mangal, Dani and Gera Kitchen",Pune,Street Food,Casual Dining,4.5,31,2074,12.69,1502,No
+149,"Virk, Shere and Krishnamurthy Kitchen",Hyderabad,Healthy Food,Fast Food,3.9,27,1115,22.12,5715,Yes
+150,Divan Inc Kitchen,Delhi,South Indian,Cloud Kitchen,3.9,19,300,10.54,5476,Yes
+151,"Lal, Master and Upadhyay Kitchen",Kolkata,South Indian,Fast Food,4.6,45,1501,10.21,1454,No
+152,Sodhi and Sons Kitchen,Chennai,Burger,Cloud Kitchen,4.5,30,1210,27.87,3452,No
+153,Bobal-Chand Kitchen,Bangalore,North Indian,Fast Food,3.9,32,447,20.71,3344,No
+154,Som-Basu Kitchen,Lucknow,Healthy Food,Cloud Kitchen,4.0,18,1585,17.78,3442,Yes
+155,Arya LLC Kitchen,Lucknow,Pizza,Fine Dining,4.8,15,2021,27.88,2539,Yes
+156,Lad-Thakur Kitchen,Hyderabad,Chinese,Cloud Kitchen,3.7,15,1610,22.3,3325,Yes
+157,"Dutt, Issac and Kapadia Kitchen",Pune,North Indian,Casual Dining,4.9,34,812,29.24,1014,Yes
+158,Balakrishnan-Agate Kitchen,Ahmedabad,North Indian,Casual Dining,4.0,36,1323,19.06,1590,Yes
+159,"Ratti, Bawa and Hayre Kitchen",Jaipur,Chinese,Fine Dining,3.6,20,892,29.18,5071,Yes
+160,Chanda-Choudhury Kitchen,Ahmedabad,Burger,Fast Food,3.3,15,1116,21.6,5895,Yes
+161,Loke LLC Kitchen,Chennai,Biryani,Fast Food,3.6,15,1491,15.58,4387,Yes
+162,Barman-Deshpande Kitchen,Jaipur,Pizza,Fine Dining,3.8,22,421,29.98,232,No
+163,Kapadia and Sons Kitchen,Pune,Burger,Fast Food,3.1,41,2220,21.57,2583,Yes
+164,"Sinha, Thakur and Handa Kitchen",Pune,South Indian,Fine Dining,3.2,16,2353,13.09,1920,Yes
+165,"Rama, Batra and Choudhury Kitchen",Ahmedabad,Biryani,Casual Dining,3.9,21,1802,20.21,2016,Yes
+166,Rao Inc Kitchen,Ahmedabad,Biryani,Cloud Kitchen,3.5,31,2170,16.33,3093,No
+167,Ratta-Bora Kitchen,Kolkata,South Indian,Fast Food,3.2,13,2156,16.06,678,Yes
+168,"Gulati, Ravi and Gala Kitchen",Jaipur,North Indian,Fast Food,4.9,34,2051,28.89,3695,Yes
+169,Sama-Bhagat Kitchen,Ahmedabad,Healthy Food,Fine Dining,3.7,11,2411,21.42,3157,Yes
+170,Gour-Bhattacharyya Kitchen,Ahmedabad,Chinese,Cloud Kitchen,4.8,36,2400,10.12,5248,No
+171,"Ratta, Boase and Sama Kitchen",Jaipur,Burger,Casual Dining,4.6,18,1878,28.97,2286,No
+172,Mahal-Mallick Kitchen,Pune,Chinese,Fine Dining,3.2,14,1039,13.23,5709,Yes
+173,"Setty, Subramanian and Sheth Kitchen",Mumbai,Pizza,Casual Dining,4.9,37,2431,20.75,2522,Yes
+174,Grewal and Sons Kitchen,Jaipur,Healthy Food,Fast Food,3.0,13,329,15.15,243,Yes
+175,Basu and Sons Kitchen,Kolkata,Italian,Cloud Kitchen,3.9,42,2299,23.86,1065,No
+176,"Gandhi, Karnik and Chakraborty Kitchen",Hyderabad,Street Food,Cloud Kitchen,4.5,23,894,29.91,4105,Yes
+177,Dora Inc Kitchen,Lucknow,Chinese,Casual Dining,3.6,45,733,20.76,5200,No
+178,Borah-Subramanian Kitchen,Lucknow,Italian,Cloud Kitchen,4.1,36,1661,18.11,222,Yes
+179,Sur-Vala Kitchen,Kolkata,Chinese,Fast Food,3.3,33,2170,29.55,3648,Yes
+180,Dash-Sahota Kitchen,Delhi,Street Food,Cloud Kitchen,4.7,43,2065,19.97,3800,Yes
+181,"Sundaram, Anne and Lall Kitchen",Bangalore,Italian,Fast Food,4.2,18,1554,14.55,5091,Yes
+182,Mani-Apte Kitchen,Jaipur,Italian,Casual Dining,4.1,20,2390,23.9,1079,No
+183,Raj and Sons Kitchen,Ahmedabad,Burger,Cloud Kitchen,4.0,41,2303,29.81,1845,Yes
+184,Vig-Swaminathan Kitchen,Hyderabad,Chinese,Fast Food,4.2,28,1307,17.42,1147,Yes
+185,"Dube, Karan and Bhargava Kitchen",Jaipur,Italian,Fast Food,4.5,37,1046,13.41,3023,Yes
+186,"Bhavsar, Kala and Choudhry Kitchen",Lucknow,Biryani,Fast Food,3.8,37,1815,16.94,712,Yes
+187,"Bajaj, Bhatti and Suri Kitchen",Kolkata,Italian,Fine Dining,3.9,37,2036,25.64,5328,Yes
+188,Ganesan-Lata Kitchen,Delhi,South Indian,Casual Dining,4.0,17,2166,25.88,1588,No
+189,Goyal and Sons Kitchen,Delhi,Burger,Fine Dining,4.2,44,1095,16.84,3586,Yes
+190,Andra-Wable Kitchen,Kolkata,Chinese,Casual Dining,4.6,28,797,14.77,2119,Yes
+191,Badal Ltd Kitchen,Mumbai,Biryani,Casual Dining,3.4,28,1947,20.09,301,No
+192,"Badal, Dayal and Bhandari Kitchen",Pune,Healthy Food,Fast Food,3.5,42,2106,10.18,2868,No
+193,Chauhan-Chahal Kitchen,Pune,Pizza,Fast Food,4.3,30,1547,20.22,2272,Yes
+194,Bhatia-Bose Kitchen,Delhi,Street Food,Fast Food,3.9,23,1024,29.34,1066,Yes
+195,Raja LLC Kitchen,Jaipur,Burger,Fast Food,4.1,40,1444,27.27,527,Yes
+196,"Rama, Uppal and Cherian Kitchen",Mumbai,Biryani,Cloud Kitchen,3.3,31,571,21.38,1903,Yes
+197,"Wable, Rajan and Bansal Kitchen",Ahmedabad,Burger,Cloud Kitchen,4.7,44,2003,21.66,2847,No
+198,Dora Group Kitchen,Lucknow,Healthy Food,Fast Food,4.4,24,2308,17.44,2383,Yes
+199,Krish-Magar Kitchen,Chennai,Desserts,Cloud Kitchen,3.2,24,1561,19.16,910,Yes
+200,Gade Group Kitchen,Jaipur,Biryani,Casual Dining,3.8,26,657,27.34,408,No
+201,Gopal-Gulati Kitchen,Jaipur,Desserts,Casual Dining,3.5,38,2026,29.33,3332,Yes
+202,"Comar, Ahuja and Rama Kitchen",Ahmedabad,Italian,Cloud Kitchen,4.9,36,2343,14.95,5375,Yes
+203,"Badami, Banik and Dara Kitchen",Hyderabad,Healthy Food,Casual Dining,3.7,23,1839,27.91,3809,No
+204,Dey-Dhar Kitchen,Chennai,Pizza,Fine Dining,4.9,16,437,18.87,5800,Yes
+205,Bedi-Dhillon Kitchen,Hyderabad,Healthy Food,Fast Food,3.6,17,758,20.52,4457,Yes
+206,Sama PLC Kitchen,Mumbai,North Indian,Casual Dining,4.4,27,444,15.47,5297,Yes
+207,"Dixit, Bhatt and Dara Kitchen",Jaipur,Street Food,Casual Dining,4.5,40,764,11.03,4178,Yes
+208,Edwin-Karpe Kitchen,Bangalore,North Indian,Casual Dining,3.1,15,344,17.73,3781,No
+209,Hegde Group Kitchen,Ahmedabad,Pizza,Fast Food,3.7,33,695,16.31,4308,Yes
+210,Viswanathan PLC Kitchen,Chennai,Street Food,Fast Food,4.0,39,2454,16.41,4698,Yes
+211,Raman-Sahota Kitchen,Jaipur,Street Food,Fast Food,3.4,32,2205,16.19,5939,No
+212,Mammen-Dalal Kitchen,Delhi,Chinese,Fine Dining,4.9,15,2176,18.22,5128,Yes
+213,"Kumar, Bawa and Reddy Kitchen",Ahmedabad,Chinese,Cloud Kitchen,3.9,34,1024,21.53,2045,Yes
+214,Chahal LLC Kitchen,Delhi,North Indian,Casual Dining,5.0,18,2320,14.83,5693,No
+215,"Srivastava, Venkataraman and Bhardwaj Kitchen",Ahmedabad,Street Food,Fast Food,4.4,44,2451,24.32,2671,Yes
+216,Zachariah Inc Kitchen,Mumbai,North Indian,Casual Dining,4.2,21,1878,11.77,2911,Yes
+217,Tara-Suresh Kitchen,Hyderabad,North Indian,Fine Dining,4.4,18,1371,11.28,968,Yes
+218,"Subramaniam, Sarraf and Deep Kitchen",Pune,Italian,Cloud Kitchen,4.2,38,1967,24.79,3263,Yes
+219,"Bera, Chakraborty and Suri Kitchen",Hyderabad,Biryani,Fine Dining,3.4,21,1456,26.83,5116,Yes
+220,"Srinivasan, Dugar and Joshi Kitchen",Chennai,South Indian,Cloud Kitchen,3.1,25,2010,26.88,5847,Yes
+221,"Deo, Bala and Subramaniam Kitchen",Mumbai,Street Food,Fine Dining,3.9,20,2257,14.35,640,Yes
+222,Rattan PLC Kitchen,Jaipur,Biryani,Fast Food,3.3,44,2119,29.07,3463,Yes
+223,Goel and Sons Kitchen,Bangalore,Healthy Food,Fast Food,3.1,36,2310,13.98,3286,Yes
+224,Aggarwal and Sons Kitchen,Delhi,Biryani,Fine Dining,3.7,29,1614,22.4,3509,Yes
+225,Bhandari-Ghose Kitchen,Pune,Biryani,Cloud Kitchen,4.1,32,1108,12.51,5648,Yes
+226,"Baral, Borah and Kalla Kitchen",Pune,Street Food,Fine Dining,3.6,25,571,14.78,1660,Yes
+227,"Sankar, Kibe and Ahluwalia Kitchen",Mumbai,Street Food,Fine Dining,3.4,12,1577,18.22,591,Yes
+228,"Gola, Kashyap and Arya Kitchen",Bangalore,Pizza,Cloud Kitchen,4.4,38,431,14.35,1960,No
+229,Bhat-Sabharwal Kitchen,Pune,Italian,Casual Dining,3.7,41,1316,17.82,1983,Yes
+230,Dhillon LLC Kitchen,Hyderabad,Pizza,Casual Dining,5.0,29,556,29.09,2594,No
+231,Raman-Dayal Kitchen,Delhi,Street Food,Fast Food,4.6,35,965,14.83,813,No
+232,"Sethi, Dutt and Borde Kitchen",Chennai,Healthy Food,Fine Dining,3.1,19,1027,16.34,1007,Yes
+233,Vala LLC Kitchen,Delhi,Desserts,Casual Dining,3.5,41,1395,20.12,4639,Yes
+234,"Sibal, Walla and Thaman Kitchen",Delhi,Burger,Cloud Kitchen,4.6,40,1680,27.17,362,No
+235,Dugar-Wali Kitchen,Lucknow,South Indian,Casual Dining,4.7,15,1221,17.19,1377,Yes
+236,Chokshi-Sane Kitchen,Mumbai,Pizza,Fast Food,4.4,15,2019,16.26,5926,Yes
+237,"Rout, Majumdar and Bhalla Kitchen",Delhi,Healthy Food,Fast Food,3.1,35,1003,24.03,4143,Yes
+238,Kala Group Kitchen,Pune,Burger,Fast Food,3.0,13,2037,18.18,2792,No
+239,Sunder PLC Kitchen,Kolkata,South Indian,Casual Dining,3.7,23,2109,23.87,4390,Yes
+240,Kapoor Inc Kitchen,Chennai,Desserts,Cloud Kitchen,4.5,39,803,16.08,1657,Yes
+241,Tata Inc Kitchen,Lucknow,Healthy Food,Casual Dining,4.6,15,2317,15.88,3310,No
+242,Gopal-Bahri Kitchen,Mumbai,Desserts,Cloud Kitchen,3.9,10,820,24.54,1602,No
+243,Amble and Sons Kitchen,Lucknow,South Indian,Casual Dining,4.4,27,1553,29.75,2959,Yes
+244,Chandra LLC Kitchen,Chennai,Street Food,Fine Dining,3.5,22,300,23.25,5929,Yes
+245,"Ratti, Rege and Hegde Kitchen",Hyderabad,Healthy Food,Fast Food,4.2,42,463,28.3,3641,Yes
+246,Sridhar and Sons Kitchen,Ahmedabad,Burger,Fine Dining,3.3,15,1998,25.04,4646,Yes
+247,Ben-Lal Kitchen,Lucknow,Street Food,Fast Food,4.1,27,1092,15.49,5924,Yes
+248,Johal LLC Kitchen,Mumbai,Biryani,Casual Dining,3.9,20,1848,16.68,4729,No
+249,"Bajwa, Mann and Tella Kitchen",Kolkata,Desserts,Cloud Kitchen,4.2,23,2226,27.78,3206,Yes
+250,Sachar-Boase Kitchen,Chennai,Street Food,Fine Dining,4.1,28,1642,22.63,4165,No
+251,"Chaudhary, Amble and Dasgupta Kitchen",Jaipur,Biryani,Cloud Kitchen,4.0,19,1367,11.02,3628,Yes
+252,Ghose LLC Kitchen,Hyderabad,North Indian,Cloud Kitchen,3.5,24,828,19.84,1429,Yes
+253,"Din, Toor and Bhavsar Kitchen",Jaipur,Desserts,Fine Dining,3.6,11,1359,13.64,822,Yes
+254,Bora-Lal Kitchen,Bangalore,South Indian,Fast Food,4.0,29,1277,16.46,5870,Yes
+255,"Comar, Lalla and Gaba Kitchen",Mumbai,Healthy Food,Fine Dining,3.5,30,1814,19.28,5499,No
+256,Dada Group Kitchen,Hyderabad,Chinese,Fine Dining,3.3,19,2036,28.55,3656,Yes
+257,Luthra Inc Kitchen,Bangalore,Pizza,Fast Food,4.7,38,2055,24.15,219,Yes
+258,Krish Ltd Kitchen,Kolkata,Italian,Cloud Kitchen,3.2,40,587,25.52,698,Yes
+259,"Tailor, Dey and Ravel Kitchen",Bangalore,Pizza,Fine Dining,4.6,43,2463,25.36,5745,No
+260,Barad LLC Kitchen,Pune,Chinese,Fast Food,3.2,25,1893,22.88,5218,No
+261,Mammen-Hayer Kitchen,Lucknow,Biryani,Casual Dining,4.7,22,1306,21.55,4340,Yes
+262,Sundaram LLC Kitchen,Hyderabad,Street Food,Fast Food,4.3,37,2398,19.17,1922,No
+263,Salvi PLC Kitchen,Kolkata,Healthy Food,Casual Dining,4.1,32,2400,10.69,1205,No
+264,"Buch, Chander and Bhasin Kitchen",Hyderabad,Street Food,Fast Food,4.3,44,719,11.63,3303,Yes
+265,"Kakar, Bala and Sura Kitchen",Bangalore,Italian,Casual Dining,3.9,31,452,15.85,4223,Yes
+266,"Bhakta, Thakkar and Iyer Kitchen",Chennai,Street Food,Fast Food,4.1,24,1774,12.67,1290,Yes
+267,Sachdeva and Sons Kitchen,Lucknow,Healthy Food,Cloud Kitchen,4.4,34,2415,25.9,2294,No
+268,Lala-Acharya Kitchen,Mumbai,Biryani,Casual Dining,3.3,28,1022,12.09,5068,Yes
+269,Ghose and Sons Kitchen,Mumbai,Street Food,Fast Food,3.3,39,930,27.54,1463,No
+270,Bakshi-Dhawan Kitchen,Ahmedabad,Italian,Cloud Kitchen,4.1,13,2141,19.35,3510,No
+271,Ghosh-Behl Kitchen,Chennai,Desserts,Fast Food,3.2,38,1237,22.99,5944,No
+272,Dyal and Sons Kitchen,Delhi,Street Food,Cloud Kitchen,4.7,12,1769,26.56,5541,No
+273,Kari PLC Kitchen,Pune,South Indian,Casual Dining,4.3,23,435,11.51,3161,Yes
+274,Sathe-Agate Kitchen,Chennai,Pizza,Cloud Kitchen,3.2,37,946,10.99,2299,Yes
+275,Sabharwal and Sons Kitchen,Ahmedabad,Chinese,Cloud Kitchen,3.5,25,1289,12.71,1440,Yes
+276,"Kari, Goswami and Raja Kitchen",Kolkata,Desserts,Fast Food,3.5,22,1895,17.7,3068,Yes
+277,"Gaba, Sunder and Thakur Kitchen",Kolkata,Street Food,Fine Dining,4.9,17,2497,22.21,3549,No
+278,"Brahmbhatt, Rao and Solanki Kitchen",Delhi,Biryani,Casual Dining,4.7,29,387,24.21,3478,Yes
+279,Bakshi Ltd Kitchen,Jaipur,Desserts,Casual Dining,3.2,26,2213,24.72,3501,Yes
+280,Wagle Ltd Kitchen,Lucknow,Street Food,Fine Dining,3.6,40,903,22.78,3450,Yes
+281,Boase Ltd Kitchen,Mumbai,North Indian,Fast Food,3.7,18,1524,29.95,2056,Yes
+282,"Swamy, Korpal and Luthra Kitchen",Kolkata,North Indian,Cloud Kitchen,3.5,42,2056,15.58,3752,Yes
+283,Jhaveri-Chaudhuri Kitchen,Pune,Burger,Cloud Kitchen,4.9,30,565,10.49,2389,Yes
+284,"Vyas, Vasa and Ramaswamy Kitchen",Pune,Street Food,Fast Food,4.4,24,1712,24.51,5175,No
+285,"Kothari, Gill and Rama Kitchen",Jaipur,Pizza,Casual Dining,4.7,28,1617,29.49,2123,No
+286,"Saini, Dani and Bala Kitchen",Pune,Healthy Food,Fast Food,5.0,16,551,11.31,4192,No
+287,"Devi, Ahuja and Saxena Kitchen",Lucknow,Healthy Food,Fast Food,4.6,39,883,22.93,1424,Yes
+288,Ramakrishnan PLC Kitchen,Bangalore,South Indian,Fine Dining,4.3,34,646,12.57,2852,Yes
+289,Sengupta-Rama Kitchen,Hyderabad,North Indian,Cloud Kitchen,4.3,19,2334,29.65,291,Yes
+290,Zachariah Ltd Kitchen,Chennai,Burger,Cloud Kitchen,4.8,40,2018,18.78,5209,No
+291,Bala-Sheth Kitchen,Ahmedabad,Healthy Food,Casual Dining,3.1,44,458,17.25,2814,Yes
+292,"Grover, Lall and Barad Kitchen",Pune,Burger,Casual Dining,4.7,45,1845,24.03,5517,Yes
+293,Halder and Sons Kitchen,Delhi,South Indian,Cloud Kitchen,3.9,19,453,11.1,4279,Yes
+294,"Kashyap, Balay and Issac Kitchen",Mumbai,North Indian,Cloud Kitchen,3.9,35,631,19.38,3050,Yes
+295,Bora Ltd Kitchen,Kolkata,Burger,Casual Dining,4.9,20,888,22.82,2316,Yes
+296,"Ravi, Kala and Yogi Kitchen",Jaipur,Burger,Fast Food,3.6,31,1048,20.51,1937,Yes
+297,Chawla-Dhaliwal Kitchen,Bangalore,Chinese,Fine Dining,3.1,44,1566,29.45,2490,Yes
+298,Kanda-Cherian Kitchen,Hyderabad,Healthy Food,Fine Dining,3.7,15,2131,19.56,3493,Yes
+299,"Saran, Tripathi and Venkatesh Kitchen",Hyderabad,North Indian,Casual Dining,3.7,45,624,23.65,2795,No
+300,"Chaudhuri, Kaul and Tank Kitchen",Lucknow,Burger,Cloud Kitchen,4.3,40,354,24.31,3060,No
+301,Biswas-Sarin Kitchen,Lucknow,Burger,Cloud Kitchen,3.5,10,2066,16.31,1909,No
+302,"Wable, Rajagopalan and Deo Kitchen",Delhi,Chinese,Casual Dining,3.3,43,2285,23.11,2586,Yes
+303,Ganguly-Zachariah Kitchen,Kolkata,Chinese,Cloud Kitchen,3.1,39,1081,21.95,403,No
+304,"Thakur, Sami and Sabharwal Kitchen",Lucknow,Healthy Food,Casual Dining,4.7,43,895,27.82,767,Yes
+305,Sama Group Kitchen,Jaipur,Italian,Fast Food,3.9,43,1924,19.19,1305,Yes
+306,"Loke, Mangat and Ramesh Kitchen",Mumbai,Italian,Fine Dining,3.2,13,1777,23.42,1383,Yes
+307,Buch PLC Kitchen,Kolkata,Burger,Cloud Kitchen,4.6,30,1870,14.89,627,Yes
+308,Korpal LLC Kitchen,Delhi,Healthy Food,Cloud Kitchen,3.8,19,1972,26.78,637,Yes
+309,Chaudhari-Sekhon Kitchen,Kolkata,Burger,Fast Food,4.8,30,1379,14.86,5223,Yes
+310,"Kala, Anand and Maharaj Kitchen",Kolkata,Pizza,Fine Dining,4.1,10,1290,13.85,4653,No
+311,Dutt-Basak Kitchen,Jaipur,Pizza,Fast Food,3.2,14,1064,28.22,4292,Yes
+312,Lad-Chopra Kitchen,Jaipur,Pizza,Fast Food,4.6,29,2468,25.2,4066,Yes
+313,Krishnamurthy and Sons Kitchen,Jaipur,South Indian,Fast Food,3.1,19,1221,26.87,424,Yes
+314,Vaidya-Randhawa Kitchen,Jaipur,South Indian,Cloud Kitchen,3.9,29,1414,16.85,5329,No
+315,"Dhaliwal, Ganguly and Bhattacharyya Kitchen",Delhi,Burger,Cloud Kitchen,4.1,16,867,11.83,5711,Yes
+316,Singh-Gala Kitchen,Jaipur,North Indian,Fast Food,4.5,35,1835,21.65,3281,No
+317,Koshy Group Kitchen,Mumbai,Burger,Cloud Kitchen,3.4,32,385,13.76,4388,Yes
+318,Srivastava Ltd Kitchen,Jaipur,Desserts,Fast Food,3.4,31,2285,11.14,4605,Yes
+319,"Sengupta, Divan and Sahota Kitchen",Chennai,Healthy Food,Casual Dining,4.2,16,1563,26.81,4193,Yes
+320,"Dewan, Raja and Lad Kitchen",Hyderabad,Desserts,Casual Dining,3.0,12,1081,10.98,2867,Yes
+321,"Varty, Sethi and Sami Kitchen",Delhi,Healthy Food,Fast Food,4.1,11,810,26.39,420,Yes
+322,Deep Inc Kitchen,Chennai,South Indian,Fine Dining,3.7,41,591,16.99,2727,Yes
+323,Shan Inc Kitchen,Pune,Biryani,Casual Dining,4.2,15,712,15.48,808,Yes
+324,Gala-Kumar Kitchen,Bangalore,South Indian,Fast Food,3.1,18,1260,24.7,4172,No
+325,Desai Group Kitchen,Hyderabad,Street Food,Cloud Kitchen,4.3,24,1321,21.62,260,Yes
+326,"Ghose, Kaur and Kale Kitchen",Delhi,Pizza,Fine Dining,4.5,20,1323,23.5,4220,Yes
+327,"Char, Kakar and Walia Kitchen",Hyderabad,Pizza,Fast Food,3.4,23,1103,17.05,1680,No
+328,Chatterjee-Srinivasan Kitchen,Pune,Italian,Fine Dining,3.3,36,1610,12.6,3504,No
+329,Ghosh and Sons Kitchen,Ahmedabad,Street Food,Cloud Kitchen,4.4,31,466,27.17,457,Yes
+330,Bahl LLC Kitchen,Jaipur,Street Food,Fine Dining,4.9,23,774,22.57,2883,No
+331,Chauhan-Shenoy Kitchen,Jaipur,North Indian,Cloud Kitchen,3.4,30,1404,12.11,2009,Yes
+332,"Bhat, Sibal and Bains Kitchen",Chennai,Street Food,Cloud Kitchen,4.6,45,502,21.58,4139,No
+333,Bandi Ltd Kitchen,Lucknow,Pizza,Cloud Kitchen,4.2,28,2472,25.63,4456,Yes
+334,Kulkarni PLC Kitchen,Jaipur,Chinese,Fine Dining,4.4,27,2051,26.69,3528,Yes
+335,Chaudhari-Mahajan Kitchen,Lucknow,Healthy Food,Fine Dining,3.1,26,752,24.95,3920,Yes
+336,Agate-Gaba Kitchen,Mumbai,North Indian,Fast Food,4.7,33,1999,15.72,1359,No
+337,Deep-Shere Kitchen,Ahmedabad,South Indian,Fine Dining,4.3,28,1584,16.28,5664,Yes
+338,Manne Ltd Kitchen,Hyderabad,South Indian,Casual Dining,4.9,41,2332,10.67,3686,No
+339,Jha-Iyer Kitchen,Jaipur,Healthy Food,Fine Dining,4.2,12,990,13.33,5628,Yes
+340,"Shankar, Korpal and Keer Kitchen",Pune,Pizza,Casual Dining,4.4,24,718,13.52,3705,Yes
+341,"Bhardwaj, Ratta and Buch Kitchen",Bangalore,South Indian,Fast Food,3.5,27,2390,19.89,2737,Yes
+342,Sekhon-Sharma Kitchen,Kolkata,South Indian,Cloud Kitchen,4.8,29,1876,14.23,1512,Yes
+343,Buch Group Kitchen,Ahmedabad,Biryani,Fine Dining,3.3,44,544,25.18,5600,Yes
+344,"Bora, Dutt and Devi Kitchen",Hyderabad,Biryani,Cloud Kitchen,4.0,33,636,28.24,5360,Yes
+345,Mahal-Vora Kitchen,Delhi,Biryani,Fine Dining,3.3,37,765,22.92,1095,No
+346,Dalal LLC Kitchen,Mumbai,Italian,Fast Food,3.5,42,1485,13.14,4089,Yes
+347,Sodhi Ltd Kitchen,Pune,Pizza,Fast Food,4.4,22,2125,21.87,1599,Yes
+348,Bhasin-Ray Kitchen,Hyderabad,Healthy Food,Cloud Kitchen,4.5,40,1857,16.19,823,No
+349,"Warrior, Rajagopal and Lala Kitchen",Kolkata,Italian,Casual Dining,3.9,32,2439,18.11,4675,Yes
+350,Sur Group Kitchen,Kolkata,Pizza,Casual Dining,5.0,17,1182,15.84,5398,Yes
+351,Barad-Sangha Kitchen,Chennai,Pizza,Cloud Kitchen,3.6,43,2132,17.09,2718,No
+352,Kumar Inc Kitchen,Pune,North Indian,Fast Food,4.1,22,2252,15.05,1440,No
+353,Bava-Reddy Kitchen,Delhi,Desserts,Fine Dining,4.8,36,1698,15.31,3798,No
+354,Taneja-Brar Kitchen,Lucknow,Healthy Food,Cloud Kitchen,4.8,34,810,12.07,4351,Yes
+355,Dhingra-Sant Kitchen,Pune,Pizza,Casual Dining,4.3,31,809,28.14,907,Yes
+356,"Date, Varughese and Shroff Kitchen",Lucknow,Burger,Fine Dining,3.3,31,1582,29.37,838,Yes
+357,"Sehgal, Sankaran and Vig Kitchen",Pune,Chinese,Fine Dining,3.9,18,2404,28.91,3738,Yes
+358,Magar-Garg Kitchen,Pune,Street Food,Fine Dining,4.4,10,573,16.03,3689,Yes
+359,Wadhwa Inc Kitchen,Chennai,North Indian,Fast Food,3.4,26,780,16.07,2692,Yes
+360,Madan-De Kitchen,Jaipur,Biryani,Casual Dining,3.2,41,1731,12.88,1668,Yes
+361,"Kumer, Gole and Raj Kitchen",Delhi,Burger,Fast Food,3.2,16,1430,18.46,3766,Yes
+362,Sarkar-Anand Kitchen,Ahmedabad,Pizza,Cloud Kitchen,4.6,32,2241,12.83,2066,Yes
+363,Ramaswamy PLC Kitchen,Chennai,South Indian,Fine Dining,3.3,10,663,22.87,1851,Yes
+364,Karnik-Hora Kitchen,Delhi,Desserts,Cloud Kitchen,3.4,10,323,11.95,4189,Yes
+365,"Shanker, Sangha and Rana Kitchen",Lucknow,Burger,Fast Food,3.3,16,1525,28.47,3024,Yes
+366,Ramachandran and Sons Kitchen,Pune,Healthy Food,Fine Dining,4.6,16,1445,17.08,4971,Yes
+367,Sur-Rau Kitchen,Jaipur,Street Food,Casual Dining,4.3,44,2292,20.75,1942,No
+368,"Babu, Sharaf and Shanker Kitchen",Kolkata,North Indian,Fast Food,4.4,21,1914,23.65,3692,Yes
+369,"Chaudhary, Varghese and Dutta Kitchen",Kolkata,North Indian,Fine Dining,4.3,25,2431,15.32,4448,Yes
+370,Saha LLC Kitchen,Ahmedabad,Street Food,Fine Dining,3.1,43,873,19.11,4037,Yes
+371,Wadhwa-Kade Kitchen,Hyderabad,North Indian,Cloud Kitchen,4.8,39,371,21.39,2753,No
+372,Datta-Khatri Kitchen,Pune,Pizza,Fine Dining,4.7,10,1267,29.83,379,Yes
+373,"Dyal, Uppal and Dua Kitchen",Ahmedabad,North Indian,Fine Dining,3.3,32,809,23.84,5722,Yes
+374,"Chandra, Varma and Sule Kitchen",Kolkata,Chinese,Fast Food,4.3,24,1164,29.6,632,Yes
+375,Krishnamurthy Inc Kitchen,Bangalore,Desserts,Fast Food,5.0,25,868,23.73,3943,Yes
+376,Magar Group Kitchen,Bangalore,Biryani,Fast Food,3.5,24,2047,25.97,5222,Yes
+377,Goyal-Agate Kitchen,Mumbai,Pizza,Casual Dining,3.2,19,1880,25.61,567,Yes
+378,Shanker and Sons Kitchen,Lucknow,North Indian,Fine Dining,4.8,39,1257,17.66,3121,Yes
+379,Anne-Sant Kitchen,Jaipur,Italian,Casual Dining,4.3,36,1799,18.6,2331,Yes
+380,Barman-Srinivasan Kitchen,Mumbai,Burger,Casual Dining,3.9,39,1077,16.21,2700,Yes
+381,Som Inc Kitchen,Delhi,Biryani,Fine Dining,4.5,37,1512,28.72,1388,No
+382,Kapoor PLC Kitchen,Mumbai,South Indian,Cloud Kitchen,4.9,11,2177,13.5,1480,No
+383,Kanda-Bahl Kitchen,Pune,North Indian,Fine Dining,4.7,15,1358,24.75,5563,Yes
+384,"Batta, Tandon and Khare Kitchen",Delhi,South Indian,Fine Dining,3.5,15,582,11.35,5180,Yes
+385,Shetty and Sons Kitchen,Hyderabad,South Indian,Fine Dining,3.5,36,1571,28.24,604,Yes
+386,Saran LLC Kitchen,Jaipur,Pizza,Casual Dining,4.3,37,466,24.42,545,No
+387,Dutt PLC Kitchen,Bangalore,Street Food,Casual Dining,3.5,20,1075,24.39,4465,Yes
+388,"Sharaf, Kapur and Shah Kitchen",Hyderabad,Burger,Fast Food,3.1,22,1607,17.51,4895,Yes
+389,"Bhasin, Ratti and Bahri Kitchen",Jaipur,Street Food,Casual Dining,4.3,19,1635,12.92,722,No
+390,"Lad, Gopal and Thakkar Kitchen",Pune,Desserts,Fine Dining,4.6,21,1409,14.7,5300,No
+391,Vasa LLC Kitchen,Chennai,Burger,Fast Food,4.3,33,1588,18.1,1036,Yes
+392,Gara-Toor Kitchen,Kolkata,Street Food,Fine Dining,4.2,37,1126,12.15,4591,Yes
+393,"Kota, Setty and Virk Kitchen",Ahmedabad,Desserts,Fast Food,3.0,37,1721,28.19,3919,Yes
+394,"Khare, Deo and Chadha Kitchen",Hyderabad,Chinese,Cloud Kitchen,3.5,15,986,26.39,1245,Yes
+395,Kara-Dave Kitchen,Hyderabad,Biryani,Fast Food,5.0,32,1161,14.23,5451,Yes
+396,Baria-Uppal Kitchen,Bangalore,Chinese,Fine Dining,3.5,28,2394,23.26,1957,Yes
+397,Tandon Group Kitchen,Pune,Burger,Fast Food,4.9,28,2374,28.32,4512,Yes
+398,Thakkar Ltd Kitchen,Lucknow,South Indian,Casual Dining,4.0,45,820,25.9,3165,Yes
+399,"Sura, Guha and Seshadri Kitchen",Jaipur,Pizza,Casual Dining,3.3,12,1087,29.55,2998,Yes
+400,Baria and Sons Kitchen,Jaipur,Italian,Cloud Kitchen,4.9,32,558,13.27,4215,Yes
+401,Lall-Kar Kitchen,Pune,South Indian,Fast Food,3.6,11,2071,12.0,4562,Yes
+402,"Dar, Bakshi and Krishna Kitchen",Pune,Desserts,Cloud Kitchen,3.5,32,2248,26.32,2828,No
+403,"Cheema, Sundaram and Sankar Kitchen",Delhi,North Indian,Cloud Kitchen,3.8,14,459,11.77,1947,Yes
+404,Kale LLC Kitchen,Bangalore,Italian,Cloud Kitchen,3.7,18,1158,29.63,4968,Yes
+405,Manne Group Kitchen,Jaipur,Chinese,Casual Dining,4.3,16,2010,18.32,5084,Yes
+406,Bal Group Kitchen,Bangalore,Biryani,Casual Dining,3.3,45,1754,29.72,2324,Yes
+407,Basu-Badami Kitchen,Pune,Italian,Casual Dining,4.6,36,1244,15.63,5343,Yes
+408,"Uppal, Borra and Raju Kitchen",Ahmedabad,Italian,Cloud Kitchen,3.1,28,1381,11.13,2816,Yes
+409,Raval LLC Kitchen,Chennai,Chinese,Fine Dining,3.2,12,1392,21.62,2836,Yes
+410,Tiwari Group Kitchen,Lucknow,South Indian,Fast Food,4.9,44,2104,19.93,4244,Yes
+411,"Kala, Srinivasan and Mammen Kitchen",Delhi,Chinese,Fine Dining,4.7,16,1152,18.92,1663,No
+412,Bandi and Sons Kitchen,Kolkata,Pizza,Casual Dining,4.4,22,1016,24.64,5985,No
+413,"Acharya, Seth and Manne Kitchen",Hyderabad,Burger,Fine Dining,3.3,27,1997,17.22,5203,Yes
+414,Ramachandran LLC Kitchen,Hyderabad,Biryani,Fast Food,4.3,22,654,11.41,487,Yes
+415,Chauhan-Bora Kitchen,Chennai,Chinese,Fast Food,3.7,25,1020,20.7,1840,Yes
+416,"Kar, Swamy and Tripathi Kitchen",Jaipur,Pizza,Fine Dining,5.0,31,863,19.49,3919,No
+417,"Kapur, Buch and Bains Kitchen",Ahmedabad,Italian,Fast Food,4.6,10,1046,18.64,1963,Yes
+418,Sehgal-Korpal Kitchen,Ahmedabad,Pizza,Cloud Kitchen,4.6,24,359,21.91,5299,No
+419,Bail-Sengupta Kitchen,Kolkata,Healthy Food,Cloud Kitchen,4.8,33,350,18.22,4146,No
+420,Comar-Bassi Kitchen,Chennai,Healthy Food,Fast Food,4.2,23,2448,22.6,1086,Yes
+421,"Borde, Soni and Ganguly Kitchen",Lucknow,Pizza,Fast Food,3.8,27,1892,12.89,1164,Yes
+422,"Baral, Choudhary and Halder Kitchen",Hyderabad,Chinese,Cloud Kitchen,3.2,12,881,10.33,2568,Yes
+423,Agarwal and Sons Kitchen,Jaipur,Burger,Cloud Kitchen,4.7,41,1638,14.73,4457,No
+424,Saha PLC Kitchen,Hyderabad,Desserts,Casual Dining,3.4,31,1137,24.72,1860,Yes
+425,"Chanda, Dhingra and Varughese Kitchen",Chennai,North Indian,Casual Dining,3.6,42,1945,20.12,3545,No
+426,Vasa-Madan Kitchen,Kolkata,South Indian,Fine Dining,3.3,44,1400,29.19,1941,Yes
+427,Agate Ltd Kitchen,Delhi,South Indian,Casual Dining,4.7,14,543,27.28,5698,No
+428,Chokshi Group Kitchen,Jaipur,Chinese,Fine Dining,3.8,26,2190,25.25,1893,No
+429,Handa-Bhattacharyya Kitchen,Jaipur,Pizza,Casual Dining,3.3,15,374,10.17,2984,Yes
+430,"Sha, Khurana and Rattan Kitchen",Chennai,Desserts,Cloud Kitchen,3.0,12,1139,21.73,5773,Yes
+431,Hayer-Deshpande Kitchen,Bangalore,Desserts,Fine Dining,3.9,36,469,20.36,4764,Yes
+432,"Viswanathan, Bhavsar and Johal Kitchen",Kolkata,South Indian,Fast Food,3.0,22,1658,18.45,4471,Yes
+433,Tella-Kala Kitchen,Hyderabad,Pizza,Casual Dining,4.4,22,708,18.85,2344,Yes
+434,Yohannan-Barad Kitchen,Jaipur,Italian,Cloud Kitchen,4.5,20,1715,14.66,5993,No
+435,"Sule, Sachar and Chada Kitchen",Mumbai,South Indian,Casual Dining,4.6,10,2397,21.77,1080,Yes
+436,Mahal-Wagle Kitchen,Pune,North Indian,Cloud Kitchen,3.4,30,808,14.73,2673,Yes
+437,"Bawa, Kota and Tak Kitchen",Pune,North Indian,Fine Dining,4.3,13,1728,26.6,316,Yes
+438,Dara LLC Kitchen,Hyderabad,Pizza,Fast Food,3.8,27,961,15.17,5126,No
+439,Arora-Jhaveri Kitchen,Hyderabad,South Indian,Fine Dining,4.7,14,1048,23.39,1607,No
+440,Gill-Saran Kitchen,Pune,Desserts,Casual Dining,3.9,30,1393,19.76,5846,Yes
+441,Contractor PLC Kitchen,Lucknow,Italian,Fine Dining,3.4,31,1167,22.54,5112,No
+442,Vohra-Dugar Kitchen,Mumbai,Pizza,Casual Dining,3.7,26,407,29.91,4598,Yes
+443,"Roy, Manne and Solanki Kitchen",Chennai,Pizza,Fine Dining,4.0,18,1804,19.72,5710,Yes
+444,Comar-Sant Kitchen,Lucknow,South Indian,Fine Dining,4.1,21,2152,28.34,3743,Yes
+445,"Soni, Chaudhari and Kata Kitchen",Mumbai,Healthy Food,Cloud Kitchen,4.6,45,718,19.02,1555,Yes
+446,Dubey and Sons Kitchen,Pune,South Indian,Fast Food,4.4,17,1363,21.72,1507,Yes
+447,Kaul-Lata Kitchen,Lucknow,Desserts,Cloud Kitchen,4.0,20,332,13.85,5180,No
+448,"Dara, Agarwal and Dada Kitchen",Lucknow,North Indian,Fast Food,3.9,25,1766,14.92,1031,Yes
+449,Dasgupta and Sons Kitchen,Lucknow,Chinese,Cloud Kitchen,4.8,40,1699,16.71,5519,Yes
+450,Dalal-Kapoor Kitchen,Hyderabad,Chinese,Fast Food,4.9,13,854,20.66,5694,Yes
+451,"Sama, Malhotra and Lal Kitchen",Hyderabad,Biryani,Fast Food,4.3,40,306,20.86,4553,No
+452,Uppal-Sankaran Kitchen,Mumbai,Pizza,Casual Dining,3.3,39,2260,17.52,3031,No
+453,"Koshy, Sachar and Tata Kitchen",Bangalore,Burger,Casual Dining,3.2,39,653,22.46,4233,Yes
+454,"Arya, Goda and Banerjee Kitchen",Mumbai,Chinese,Fine Dining,3.9,24,1283,25.56,2060,Yes
+455,"Arora, Sachdeva and Balan Kitchen",Mumbai,Biryani,Casual Dining,3.4,31,1867,13.29,4913,No
+456,"Sura, D’Alia and Rau Kitchen",Pune,Desserts,Fine Dining,3.8,14,1081,28.53,2132,Yes
+457,Randhawa PLC Kitchen,Delhi,Burger,Cloud Kitchen,4.4,36,2360,18.38,2057,Yes
+458,Dhar LLC Kitchen,Kolkata,Pizza,Casual Dining,4.0,19,1988,11.68,5574,No
+459,"Rajagopal, Bora and Golla Kitchen",Hyderabad,Chinese,Fine Dining,5.0,29,1169,23.33,344,Yes
+460,Deshmukh and Sons Kitchen,Hyderabad,Pizza,Cloud Kitchen,3.6,25,611,21.72,3114,No
+461,Mallick Ltd Kitchen,Jaipur,Biryani,Fast Food,3.2,37,2332,29.32,920,Yes
+462,"Desai, Dash and Chhabra Kitchen",Ahmedabad,Pizza,Fast Food,3.3,22,1646,22.96,883,Yes
+463,"Vig, Sura and Kar Kitchen",Jaipur,Italian,Casual Dining,3.5,42,855,24.35,1941,Yes
+464,Walia Inc Kitchen,Jaipur,Biryani,Fine Dining,4.6,42,1614,23.47,1731,No
+465,Borah-Dara Kitchen,Lucknow,Healthy Food,Casual Dining,4.2,26,1964,27.85,3110,No
+466,Lad-Saraf Kitchen,Chennai,Burger,Casual Dining,3.2,24,1719,16.62,1644,Yes
+467,Luthra Inc Kitchen,Lucknow,Desserts,Cloud Kitchen,3.5,34,1505,29.76,253,No
+468,Desai Ltd Kitchen,Pune,Chinese,Casual Dining,3.8,22,612,24.65,2849,Yes
+469,Choudhary Ltd Kitchen,Mumbai,Italian,Fine Dining,4.4,26,2185,14.24,4320,Yes
+470,"Deshmukh, Dugal and Gulati Kitchen",Mumbai,Desserts,Fine Dining,3.5,10,738,15.63,3475,Yes
+471,"Reddy, Deep and Bala Kitchen",Bangalore,Desserts,Cloud Kitchen,3.8,22,1403,14.69,4878,Yes
+472,Tank-Edwin Kitchen,Pune,Chinese,Cloud Kitchen,3.0,32,813,27.59,3316,No
+473,Bhargava-Iyer Kitchen,Hyderabad,South Indian,Fine Dining,4.9,20,2202,16.83,1451,Yes
+474,Kohli-Yogi Kitchen,Bangalore,South Indian,Fine Dining,3.7,30,1466,10.14,1860,No
+475,"Sandal, Rege and Vig Kitchen",Chennai,South Indian,Fast Food,4.4,37,2261,26.51,5599,Yes
+476,Bhatt-Rastogi Kitchen,Ahmedabad,Desserts,Casual Dining,3.3,34,2404,13.19,3545,Yes
+477,Arya LLC Kitchen,Mumbai,Chinese,Casual Dining,4.6,23,1203,22.33,1286,No
+478,Bandi-Behl Kitchen,Lucknow,Street Food,Casual Dining,3.1,16,2152,22.45,209,Yes
+479,"Karan, Mann and Aggarwal Kitchen",Ahmedabad,Desserts,Cloud Kitchen,3.6,34,588,17.37,2629,Yes
+480,Sandhu-Hayer Kitchen,Lucknow,Chinese,Fine Dining,4.5,17,1562,26.22,3965,Yes
+481,Ramachandran Ltd Kitchen,Ahmedabad,Chinese,Fast Food,3.8,12,1155,28.94,4662,Yes
+482,Wagle-Doctor Kitchen,Lucknow,Burger,Casual Dining,3.8,35,419,25.44,3630,Yes
+483,Tata-Sharma Kitchen,Bangalore,Street Food,Fast Food,4.0,30,1954,27.95,786,Yes
+484,Ghose-Solanki Kitchen,Delhi,North Indian,Fast Food,4.8,34,586,11.75,5708,Yes
+485,Kulkarni-Dyal Kitchen,Lucknow,Italian,Casual Dining,4.9,20,1681,26.51,3901,Yes
+486,Karnik-Ahuja Kitchen,Kolkata,Street Food,Fine Dining,4.6,12,2034,14.02,4856,Yes
+487,Ratta Group Kitchen,Hyderabad,North Indian,Casual Dining,4.6,28,2276,27.0,783,Yes
+488,Kumer-Divan Kitchen,Bangalore,North Indian,Casual Dining,3.6,40,1170,29.05,400,Yes
+489,Barman Ltd Kitchen,Hyderabad,Street Food,Fine Dining,3.1,31,698,13.0,5887,Yes
+490,"Ram, Bera and Lala Kitchen",Lucknow,Italian,Cloud Kitchen,4.1,39,924,21.52,1405,Yes
+491,"Aurora, Seth and Wali Kitchen",Mumbai,Biryani,Casual Dining,4.3,33,914,10.34,2023,Yes
+492,Manda-D’Alia Kitchen,Lucknow,Street Food,Fine Dining,4.9,14,732,10.89,5924,Yes
+493,Divan PLC Kitchen,Hyderabad,Healthy Food,Fast Food,3.3,40,1297,10.28,4632,No
+494,"Dhar, Solanki and Aggarwal Kitchen",Lucknow,Italian,Fast Food,4.1,45,2216,28.65,3395,No
+495,Sharaf-Lal Kitchen,Kolkata,Italian,Casual Dining,4.3,35,331,26.45,5400,Yes
+496,Sama Inc Kitchen,Bangalore,Italian,Fast Food,3.0,36,1647,20.84,1052,Yes
+497,Dalal-Baria Kitchen,Pune,Pizza,Fast Food,3.9,31,2182,19.98,2418,Yes
+498,Buch-Bhasin Kitchen,Mumbai,South Indian,Casual Dining,3.1,11,1865,23.69,4524,Yes
+499,Kade LLC Kitchen,Pune,Street Food,Fine Dining,4.0,17,2371,25.3,5959,No
+500,Keer Inc Kitchen,Bangalore,North Indian,Casual Dining,4.0,42,624,12.99,715,Yes
